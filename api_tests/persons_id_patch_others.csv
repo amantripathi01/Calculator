@@ -1,0 +1,11 @@
+id,initials,firstName,middleName,lastName,birthDate,birthPlace,phone,email,postalCode,houseNumber,houseNumberPostfix,countryCode,reference
+3b241101-e2bb-4255-8caf-4136c566a964,JS,John,Smith,Doe,1980-12-01,New York,1234567890,johnsmith@gmail.com,10001,10,A,US,REF001
+e3306675-a723-433d-b7e8-2a9bb1c68910,RS,Richard,,Roe,1975-05-10,Los Angeles,0987654321,richardroe@yahoo.com,90001,20,B,CN,REF002
+f8a79867-5644-4c57-9182-3c0b7efcf9b3,JD,Jane,Doe,,1990-07-15,Chicago,1122334455,janedoe@hotmail.com,60616,30,C,UK,REF003
+a1d0c6e83f027327d8461063f4ac58a6,MM,Mary,,Moe,1985-03-20,Houston,2233445566,marymoe@outlook.com,77001,40,D,CA,REF004
+5f4dcc3b5aa765d61d8327deb882cf99,PM,Peter,,Parker,2000-06-01,Phoenix,3344556677,peterparker@gmail.com,85001,50,E,JP,REF005
+e99a18c428cb38d5f260853678922e03,BC,Bruce,,Wayne,1995-02-19,Philadelphia,4455667788,brucewayne@yahoo.com,19104,60,F,FR,REF006
+098f6bcd4621d373cade4e832627b4f6,SK,Steve,,Kent,1988-08-30,San Antonio,5566778899,stevekent@hotmail.com,78205,70,G,IT,REF007
+5f4dcc3b5aa765d61d8327deb882cf20,CK,Clark,,Kent,1970-11-11,San Diego,6677889900,clarkkent@outlook.com,92101,80,H,ES,REF008
+e99a18c428cb38d5f260853678922e20,BB,Bruce,,Banner,1975-05-10,Dallas,7788990011,brucebanner@gmail.com,75201,90,I,AU,REF009
+098f6bcd4621d373cade4e832627b4f9,PP,Peter,,Parker,2000-06-01,San Jose,8899001122,peterparker@yahoo.com,95113,100,J,DE,REF010

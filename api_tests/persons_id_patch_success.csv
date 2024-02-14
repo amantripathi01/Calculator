@@ -1,0 +1,11 @@
+id,initials,firstName,middleName,lastName,birthDate,birthPlace,phone,email,postalCode,houseNumber,houseNumberPostfix,countryCode,reference
+123e4567-e89b-12d3-a456-426614174000,JS,John,Smith,Doe,1985-01-01,New York,1234567890,john.doe@gmail.com,10001,123,A,US,REF001
+123e4567-e89b-12d3-a456-426614174001,AS,Alice,Smith,Johnson,1990-01-01,Los Angeles,0987654321,alice.johnson@gmail.com,90001,456,B,US,REF002
+123e4567-e89b-12d3-a456-426614174002,BS,Bob,Smith,Jones,1980-01-01,Chicago,1122334455,bob.jones@gmail.com,60601,789,C,US,REF003
+123e4567-e89b-12d3-a456-426614174003,CS,Charlie,Smith,Brown,1975-01-01,Houston,2233445566,charlie.brown@gmail.com,77001,101,D,US,REF004
+123e4567-e89b-12d3-a456-426614174004,DS,David,Smith,Williams,1965-01-01,Phoenix,3344556677,david.williams@gmail.com,85001,202,E,US,REF005
+123e4567-e89b-12d3-a456-426614174005,ES,Emma,Smith,Taylor,1970-01-01,Philadelphia,4455667788,emma.taylor@gmail.com,19101,303,F,US,REF006
+123e4567-e89b-12d3-a456-426614174006,FS,Frank,Smith,Anderson,1982-01-01,San Antonio,5566778899,frank.anderson@gmail.com,78201,404,G,US,REF007
+123e4567-e89b-12d3-a456-426614174007,GS,Grace,Smith,Thomas,1987-01-01,San Diego,6677889900,grace.thomas@gmail.com,92101,505,H,US,REF008
+123e4567-e89b-12d3-a456-426614174008,HS,Henry,Smith,Jackson,1978-01-01,Dallas,7788990011,henry.jackson@gmail.com,75201,606,I,US,REF009
+123e4567-e89b-12d3-a456-426614174009,IS,Ivy,Smith,White,1983-01-01,San Jose,8899001122,ivy.white@gmail.com,95101,707,J,US,REF010
