@@ -1,0 +1,11 @@
+id,credential-url,size,offset,statusCode
+123e4567-e89b-12d3-a456-426614174000,https://example.com/credentials/1,10,0,200
+987e6543-e21b-98d3-b456-426614789000,https://example.com/credentials/2,20,5,200
+654e3217-e98b-65d3-c456-426614321000,https://example.com/credentials/3,30,10,200
+321e6549-e87b-32d3-d456-426614654000,https://example.com/credentials/4,40,15,200
+987e6543-e21b-32d3-e456-426614987000,https://example.com/credentials/5,50,20,200
+456e7891-e23b-45d3-f456-426614456000,https://example.com/credentials/6,15,25,200
+789e1234-e56b-78d3-g456-426614789123,https://example.com/credentials/7,25,30,200
+123e4567-e89b-12d3-h456-426614123456,https://example.com/credentials/8,35,35,200
+654e3217-e98b-65d3-i456-426614321654,https://example.com/credentials/9,45,40,200
+321e6549-e87b-32d3-j456-426614654321,https://example.com/credentials/10,50,45,200
