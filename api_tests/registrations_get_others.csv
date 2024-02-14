@@ -1,0 +1,11 @@
+id,credential-url,size,offset,statusCode
+3e97b131-a956-4e43-88fb-8a7a2c70b6b7,https://example.com/credential1,25,0,200
+f6d2f3dd-1492-4f08-a8c5-7e1d3d77f530,https://example.com/credential2,50,10,200
+b7a5b843-aa8a-4bf3-a7a0-7a6a7c2c621a,https://example.com/credential3,10,5,200
+a2d2d2d4-b1b2-4b08-b8b5-8e1e3e77e530,https://example.com/credential4,5,-5,400
+c3a5a883-ca8a-4cf3-c7a0-7c6c7c2c6c1c,https://example.com/credential5,30,20,200
+d4d4d4d5-d1d2-4d08-d8d5-8d1d3d77d530,https://example.com/credential6,40,30,200
+e5e5e5e6-e1e2-4e08-e8e5-8e1e3e77e530,https://example.com/credential7,45,35,200
+f6f6f6f7-f1f2-4f08-f8f5-8f1f3f77f530,https://example.com/credential8,50,40,200
+g7g7g7g8-g1g2-4g08-g8g5-8g1g3g77g530,https://example.com/credential9,55,45,400
+h8h8h8h9-h1h2-4h08-h8h5-8h1h3h77h530,https://example.com/credential10,60,50,400
