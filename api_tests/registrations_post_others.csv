@@ -1,0 +1,11 @@
+id,reference,startDate,endDate,credentialUrl
+d8f3b8e8-2837-11ec-9621-0242ac130002,REF123,2022-01-01,2022-12-31,https://example.com/credentials/1
+f6e12c58-2837-11ec-9621-0242ac130002,REF124,2022-01-05,2022-12-31,https://example.com/credentials/2
+05c8c2a8-2838-11ec-9621-0242ac130002,REF125,2022-01-10,2022-12-31,https://example.com/credentials/3
+0e7f3e9a-2838-11ec-9621-0242ac130002,REF126,2022-01-15,2022-12-31,https://example.com/credentials/4
+174c5ad0-2838-11ec-9621-0242ac130002,REF127,2022-01-20,2022-12-31,https://example.com/credentials/5
+1fd17718-2838-11ec-9621-0242ac130002,REF128,2022-01-25,2022-12-31,https://example.com/credentials/6
+280d7e5e-2838-11ec-9621-0242ac130002,REF129,2022-01-30,2022-12-31,https://example.com/credentials/7
+302e86b2-2838-11ec-9621-0242ac130002,REF130,2022-02-04,2022-12-31,https://example.com/credentials/8
+381f8e3a-2838-11ec-9621-0242ac130002,REF131,2022-02-09,2022-12-31,https://example.com/credentials/9
+3f8295fa-2838-11ec-9621-0242ac130002,REF132,2022-02-14,2022-12-31,https://example.com/credentials/10
