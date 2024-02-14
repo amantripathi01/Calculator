@@ -1,0 +1,11 @@
+id,credentialUrl,startDate,endDate,reference
+3e25d946-3852-4eab-8c3b-54b3b396f5e1,https://credentialsite.com,2020-01-01,2020-12-31,REF9876
+f1a1c7c4-3392-4f69-8d3a-4b5b58b28d28,https://credentialsite.com,2020-02-01,2020-12-31,REF9877
+b2b2d7e5-33a3-5f7a-9d4b-6b6b68c39c39,https://credentialsite.com,2020-03-01,2020-12-31,REF9878
+c3c3e7f6-34b4-6f8b-9e5c-7c7c78d4ad4a,https://credentialsite.com,2020-04-01,2020-12-31,REF9879
+d4d4f8g7-35c5-7g9c-af6d-8d8d89e5be5b,https://credentialsite.com,2020-05-01,2020-12-31,REF9880
+e5e5g9h8-36d6-8h0d-bg7e-9e9e90f6cf6c,https://credentialsite.com,2020-06-01,2020-12-31,REF9881
+f6f6h0i9-37e7-9i1e-ch8f-afa1a1g7dg7d,https://credentialsite.com,2020-07-01,2020-12-31,REF9882
+g7g7i1j0-38f8-0j2f-di9g-bgb2b2h8eh8e,https://credentialsite.com,2020-08-01,2020-12-31,REF9883
+h8h8j2k1-39g9-1k3g-ej0h-chc3c3i9fi9f,https://credentialsite.com,2020-09-01,2020-12-31,REF9884
+i9i9k3l2-40h0-2l4h-fk1i-did4d4j0gj0g,https://credentialsite.com,2020-10-01,2020-12-31,REF9885
