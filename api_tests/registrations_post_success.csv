@@ -1,0 +1,11 @@
+id,credentialUrl,startDate,endDate,reference
+3e25d946-e624-11eb-ba80-0242ac130004,https://example.com/1,2022-01-01,2022-12-31,Ref001
+3e25db76-e624-11eb-ba80-0242ac130004,https://example.com/2,2022-02-01,2022-12-31,Ref002
+3e25dc8a-e624-11eb-ba80-0242ac130004,https://example.com/3,2022-03-01,2022-12-31,Ref003
+3e25dde4-e624-11eb-ba80-0242ac130004,https://example.com/4,2022-04-01,2022-12-31,Ref004
+3e25df28-e624-11eb-ba80-0242ac130004,https://example.com/5,2022-05-01,2022-12-31,Ref005
+3e25e032-e624-11eb-ba80-0242ac130004,https://example.com/6,2022-06-01,2022-12-31,Ref006
+3e25e14e-e624-11eb-ba80-0242ac130004,https://example.com/7,2022-07-01,2022-12-31,Ref007
+3e25e262-e624-11eb-ba80-0242ac130004,https://example.com/8,2022-08-01,2022-12-31,Ref008
+3e25e36c-e624-11eb-ba80-0242ac130004,https://example.com/9,2022-09-01,2022-12-31,Ref009
+3e25e486-e624-11eb-ba80-0242ac130004,https://example.com/10,2022-10-01,2022-12-31,Ref010

@@ -1,0 +1,11 @@
+id,credential-url,size,offset,statusCode
+3fa85f64-5717-4562-b3fc-2c963f66afa6,http://example.com,20,0,200
+4cb85f64-5717-4562-b3fc-2c963f66afa7,http://example2.com,50,10,400
+5db85f64-5717-4562-b3fc-2c963f66afa8,http://example3.com,1,5,404
+6eb85f64-5717-4562-b3fc-2c963f66afa9,http://example4.com,30,15,500
+7fb85f64-5717-4562-b3fc-2c963f66afa0,http://example5.com,40,20,403
+8gb85f64-5717-4562-b3fc-2c963f66afa1,http://example6.com,10,25,302
+9hb85f64-5717-4562-b3fc-2c963f66afa2,http://example7.com,15,30,301
+10ib85f64-5717-4562-b3fc-2c963f66afa3,http://example8.com,25,35,201
+11jb85f64-5717-4562-b3fc-2c963f66afa4,http://example9.com,35,40,202
+12kb85f64-5717-4562-b3fc-2c963f66afa5,http://example10.com,45,45,203
